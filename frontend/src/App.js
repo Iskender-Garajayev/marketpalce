@@ -8,7 +8,7 @@ const App = () => {
     <>
       <Header/>
       <Container>
-      <main>
+      <main className='py-3'>
         <h1>Welcome to Proshope</h1>
       </main>
       </Container>
