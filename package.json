@@ -1,0 +1,23 @@
+{
+  "name": "description",
+  "version": "1.0.0",
+  "description": "MEARN Shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iskender-Garajayev/marketpalce.git"
+  },
+  "author": "Iskender Garajayev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iskender-Garajayev/marketpalce/issues"
+  },
+  "homepage": "https://github.com/Iskender-Garajayev/marketpalce#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
